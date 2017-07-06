@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class UITest {
-  private String baseUrl = "http://localhost:8080/myshuttledev";
+  private String baseUrl = "http://javadevopsvm.southeastasia.cloudapp.azure.com:8080/myshuttledev";
   WebDriver driver = null;
   
   @Before
