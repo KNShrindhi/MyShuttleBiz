@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Welcome to OSSDEVOPS</title>
+  <title>Welcome</title>
 </head>
 
 <body>
