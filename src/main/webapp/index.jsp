@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Welcome to DevOps World</title>
+  <title>Welcome to DevOps</title>
 </head>
 
 <body>
